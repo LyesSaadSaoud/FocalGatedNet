@@ -1,12 +1,6 @@
 # FocalGatedNet: A Novel Deep Learning Model for Accurate Knee Joint Angle Prediction
 Humaid Ibrahim, Lyes Saad Saoud, Ahmad Aljarah, Irfan Hussain
 
-
-
-
-
-
-# Household Energy Consumption Prediction Using the Stationary Wavelet Transform and Transformers
 This repo contains the supported files to reproduce the [paper]([https://arxiv.org/abs/2306.06900]) results using the stationary wavelet transform and deep transfomers 
 
 ## ABSTRACT
