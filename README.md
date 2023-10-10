@@ -14,9 +14,9 @@ Moreover, FocalGatedNet maintains a lower computational load than most equivalen
 3. cd to path. 
 4. Run the file Coming soon
 
-@misc{ibrahim2023focalgatednet,
+@misc{saoud2023improving,
       title={Improving Knee Joint Angle Prediction through Dynamic Contextual Focus and Gated Linear Units}, 
-      author={Lyes Saad Saoud, Humaid Ibrahim, Ahmad Aljarah, Irfan Hussain},
+      author={Lyes Saad Saoud and Humaid Ibrahim and Ahmad Aljarah and Irfan Hussain},
       year={2023},
       eprint={2306.06900},
       archivePrefix={arXiv},
