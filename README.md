@@ -43,9 +43,7 @@ repo/
 │ └─ exp_main.py # experiment wrapper (train/test/predict)
 ├─ checkpoints/ # saved weights
 ├─ dataset/
-│ └─ selected_features_advanced.csv
-├─ scripts/ # (optional) helper scripts
-├─ main.py # entry script
+├─ run_FocalGatedNet.py # entry script
 └─ README.md
 
 ---
