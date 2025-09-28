@@ -38,12 +38,15 @@ Add your own model by implementing it and registering in `Exp_Main`.
 
 ## 📁 Project Structure
 
+```text
 repo/
 ├─ exp/
-│ └─ exp_main.py # experiment wrapper (train/test/predict)
-├─ checkpoints/ # saved weights
+│  └─ exp_main.py                # experiment wrapper (train/test/predict)
+├─ checkpoints/                  # saved weights
 ├─ dataset/
-├─ run_FocalGatedNet.py # entry script
+│  └─ selected_features_advanced.csv
+├─ scripts/                      # (optional) helper scripts
+├─ run_FocalGatedNet.py          # entry script
 └─ README.md
 
 ---
