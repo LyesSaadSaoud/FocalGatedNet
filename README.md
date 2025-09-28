@@ -5,6 +5,9 @@ A unified **PyTorch pipeline** for **knee joint angle forecasting** and general 
 > 🏆 Our paper *“Improving Knee Joint Angle Prediction through Dynamic Contextual Focus and Gated Linear Units (FocalGatedNet)”* is published in **Computers in Biology and Medicine (Elsevier)** — **CiteScore 2024: 13.0, ranked Top 6% globally (94th percentile in Health Informatics, 92nd percentile in Computer Science Applications)**.  
 > DOI: [10.1016/j.compbiomed.2025.111119](https://doi.org/10.1016/j.compbiomed.2025.111119)
 
+> ⚠️ **Note:** I am still uploading the full set of scripts, datasets, and resources.  
+> 🔗 Pretrained **checkpoint models** can be found here: [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK)
+
 ---
 
 ## 🔍 Overview
@@ -26,7 +29,6 @@ Choose with `--model`:
 - **FocalGatedNet** (Dynamic Contextual Focus + GLU; accurate & noise-robust)
 - **TempoFormer**, **TempoFormerModified**, **TempoNet**
 - **Autoformer**, **Informer**, **Transformer**
-- **PatchTST**
 - **EDLstm** (LSTM baseline)
 - *(Legacy)* LSTNet / TCN via shared args
 
