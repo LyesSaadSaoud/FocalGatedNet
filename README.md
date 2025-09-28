@@ -188,4 +188,4 @@ torch.use_deterministic_algorithms(True)
 
 ## 🤝 Acknowledgments
 
-Grateful to **Humaid Ibrahim**, **Ahmad Aljarah**, **Prof. Irfan Hussain**, **Khalifa University**, **KU Center for Autonomous Robotic Systems (KUCARS)**, and the **Advanced Research and Innovation Center (ARIC)** for their invaluable support and collaboration.
+Grateful to **Khalifa University**, **KU Center for Autonomous Robotic Systems (KUCARS)**, and the **Advanced Research and Innovation Center (ARIC)** for their invaluable support and collaboration.
