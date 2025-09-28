@@ -201,21 +201,3 @@ if __name__ == '__main__':
         print('>>>>>>>testing : {}<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<'.format(setting))
         exp.test(setting, test=1)
         torch.cuda.empty_cache()
-# For plot in Matlab
-"""
-import numpy as np
-data = np.load('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\pred.npy')
-from scipy import io
-io.savemat('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\pred.mat', {'data': data})
-import numpy as np
-data = np.load('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\true.npy')
-from scipy import io
-io.savemat('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\true.mat', {'data': data})
-
-from scipy import io
-io.savemat('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\true.mat', {'act': actl_[model]})
-io.savemat('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\true.mat', {'act': pred_[model]})
-
-io.savemat('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\true.mat', {'act': actl_[model]})
-io.savemat('C:\\Users\\Lyes\\PycharmProjects\\Coral\\LTSF\\ExoskeletonLoader\\Results\\60\\TempoNet\\true.mat', {'act': pred_[model]})
-"""
